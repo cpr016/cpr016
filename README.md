@@ -1,5 +1,5 @@
 ### This Github is a WIP.
-Many projects do not have comprehensive READMEs explaining how to run them nor many of the finer details. 
+Many projects do not have comprehensive READMEs explaining how to run them nor many of the finer details on the project.
 
 
 
