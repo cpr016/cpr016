@@ -1,10 +1,12 @@
-## This Github is a WIP.
+### This Github is a WIP.
 Many projects do not have comprehensive READMEs explaining how to run them nor many of the finer details. 
 
 
 
 # Navigation
 I have broken up my programming projects into categories via organizations.
+
+---
 
 ## School Projects
 #### Link: https://github.com/cpr016-school-projects
@@ -37,6 +39,10 @@ The course will also provide the student with knowledge of the languages and tec
 ### Graphical User Interface Design - COS 368
 ##### Link: https://github.com/cpr016-school-projects/GUI-Design
 Principles of graphical user interface design are utilized to build working interfaces. The programming languages used will be C# and Xamarin for cross-platform app development. Students will work in an object-oriented, event-driven environment. 
+
+
+
+---
 
 ## Hobby Projects
 #### Link: https://github.com/cpr016-hobby-projects
