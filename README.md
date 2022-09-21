@@ -9,13 +9,23 @@ Many projects do not have comprehensive READMEs explaining how to run them nor m
 # Navigation
 I have broken up my programming projects into categories via github organizations.
 
+#### School Projects 
+Link: https://github.com/cpr016-school-projects
+Description: This organization contains repositories for the important high-level courses during my time at University of Southern Maine. The courses are ordered by importance, in my opinion.
+
+
+#### Hobby Projects
+Link: https://github.com/cpr016-hobby-projects
+Description: This organization contains repositories for the important projects that I made for leisure or to solve a problem I had. 
+
 ---
 
 ## School Projects
 #### Link: https://github.com/cpr016-school-projects
 #### Description: This organization contains repositories for the important high-level courses during my time at University of Southern Maine. The courses are ordered by importance, in my opinion.
 
-### Design of Computing Algorithms - COS 485 ##### Link: https://github.com/cpr016-school-projects/Algorithms
+### Design of Computing Algorithms - COS 485 
+##### Link: https://github.com/cpr016-school-projects/Algorithms
 An introduction to the design and analysis of algorithms. This course develops useful algorithm design techniques such as divide-and-conquer, dynamic programming, the greedy method, searching, iterative improvement, and randomized algorithms. We will study important problems such as sorting, searching, minimum spanning tree, single source shortest path, traveling salesperson, graph search and others. This course develops mathematical techniques for analyzing and comparing the execution times of algorithms and for finding lower bounds on the best possible algorithms.
 
 ### Capstone - Object Oriented Design and Programming - COS 420
@@ -54,7 +64,7 @@ Principles of graphical user interface design are utilized to build working inte
 ##### Link: https://github.com/cpr016-hobby-projects/Strategy-Cube-Project
 This is a simple strategy game that I made for fun. 
 
-The goal is to take over the nodes before the AI does. For every node you own, you gain a flat amount of cubes per second. You then send this cubes to other nodes to capture them. 
+The goal is to take over the nodes before the AI does. For every node you own, you gain a flat amount of cubes per second. You then send these cubes to other nodes to capture them. 
 
 ### Finis Bot
 ##### Link: https://github.com/cpr016-hobby-projects/Finis-Bot
