@@ -11,11 +11,13 @@ I have broken up my programming projects into categories via github organization
 
 #### School Projects 
 Link: https://github.com/cpr016-school-projects
+
 Description: This organization contains repositories for the important high-level courses during my time at University of Southern Maine. The courses are ordered by importance, in my opinion.
 
 
 #### Hobby Projects
 Link: https://github.com/cpr016-hobby-projects
+
 Description: This organization contains repositories for the important projects that I made for leisure or to solve a problem I had. 
 
 ---
