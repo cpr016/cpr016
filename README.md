@@ -7,16 +7,15 @@ Many projects do not have comprehensive READMEs explaining how to run them nor m
 
 
 # Navigation
-I have broken up my programming projects into categories via organizations.
+I have broken up my programming projects into categories via github organizations.
 
 ---
 
 ## School Projects
 #### Link: https://github.com/cpr016-school-projects
-#### Description: This organization contains repositories for the important high-level courses during my time in college. The courses are ordered by importance, in my opinion.
+#### Description: This organization contains repositories for the important high-level courses during my time at University of Southern Maine. The courses are ordered by importance, in my opinion.
 
-### Design of Computing Algorithms - COS 485
-##### Link: https://github.com/cpr016-school-projects/Algorithms
+### Design of Computing Algorithms - COS 485 ##### Link: https://github.com/cpr016-school-projects/Algorithms
 An introduction to the design and analysis of algorithms. This course develops useful algorithm design techniques such as divide-and-conquer, dynamic programming, the greedy method, searching, iterative improvement, and randomized algorithms. We will study important problems such as sorting, searching, minimum spanning tree, single source shortest path, traveling salesperson, graph search and others. This course develops mathematical techniques for analyzing and comparing the execution times of algorithms and for finding lower bounds on the best possible algorithms.
 
 ### Capstone - Object Oriented Design and Programming - COS 420
